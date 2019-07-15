@@ -92,7 +92,7 @@ This lab guide will walk you through the process of creating Autonomous Data War
 
     ![](images/UnstructuredData/select.png)
 
-- Now, you should see the UNstructuredDataset notebook in the list. 
+- Now, you should see the UnstructuredDataset notebook in the list. 
 
     ![](images/UnstructuredData/notebooks.png)
 
