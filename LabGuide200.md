@@ -83,6 +83,19 @@ This lab guide will walk you through the process of creating Autonomous Data War
 - After login to OML, click on **Notebooks**.
     
     ![](images/UnstructuredData/notebook.png)
+    
+- Click on the "import".
+
+    ![](images/UnstructuredData/import.png)
+    
+- Navigate to the notebook "UnstructuredDataset.json", select it and click on "Choose".
+
+    ![](images/UnstructuredData/select.png)
+
+- Now, you should see the UNstructuredDataset notebook in the list. 
+
+    ![](images/UnstructuredData/notebooks.png)
+
 
 ### **STEP 5**: Load data in Object Storage. 
 
